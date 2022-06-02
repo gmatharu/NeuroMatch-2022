@@ -1,6 +1,6 @@
 # hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
-baseURL: https://gmatharu.github.io/learnings/
+baseURL: https://gmatharu.github.io/NeuroMatch-2022/
 title: NeuroMatch 2022 Notes
 theme: hugo-book
 googleAnalytics: G-XZFG6DG008
