@@ -22,7 +22,7 @@ jobs:
           extended: true
       
       - name: Hugo Ver
-        run: hugo --version
+        run: hugo version
       - name: Build
         run: hugo --minify --theme hugo-book
 
