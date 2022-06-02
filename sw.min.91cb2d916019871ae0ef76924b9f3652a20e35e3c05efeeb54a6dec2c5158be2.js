@@ -1,0 +1,1 @@
+navigator.serviceWorker&&navigator.serviceWorker.register("/NeuroMatch-2022/sw.js",{scope:"/NeuroMatch-2022/"})
