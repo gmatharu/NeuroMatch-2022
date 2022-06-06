@@ -2,7 +2,7 @@
 title: "Intro"
 date: 2022-06-06T21:52:08+03:00
 weight: 3
-draft: true
+draft: False
 ---
 
 Well organised Intro to NeuroScience and the topics that are covered in the next sections.
