@@ -1,8 +1,8 @@
-# hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/
-
 baseURL: https://gmatharu.github.io/NeuroMatch-2022/
-title: NeuroMatch 2022 Notes
-theme: hugo-book
+languageCode: en-us
+title: NeuroMatch-2022
+theme: hugo-book-customized
+
 googleAnalytics: G-XZFG6DG008
 # Book configuration
 disablePathToLower: true
@@ -13,8 +13,6 @@ markup:
   goldmark:
     renderer:
       unsafe: true
-  tableOfContents:
-    startLevel: 1
 
 # Multi-lingual mode config
 # There are different options to translate files
@@ -26,13 +24,9 @@ languages:
     contentDir: content
     weight: 1
 
-menu:
-  # before: []
-  after:
-    - name: "NeuroMatch Link"
-      url: "https://compneuro.neuromatch.io/"
-      weight: 14
-
+taxonomies:
+   tag: "tags"
+   category: "categories"
 
 params:
   # (Optional, default light) Sets color theme: light, dark or auto.
@@ -71,7 +65,7 @@ params:
   # Enable "Edit this page" links for 'doc' page type.
   # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
   # Edit path must point to root directory of repo.
-  BookEditPath: edit/main/exampleSite
+  BookEditPath: /
 
   # Configure the date format used on the pages
   # - In git information
@@ -102,5 +96,3 @@ params:
   # /!\ This is an experimental feature, might be removed or changed at any time
   # (Optional, experimental, default false) Enables a drop-down menu for translations only if a translation is present.
   BookTranslatedOnly: false
-
-  
