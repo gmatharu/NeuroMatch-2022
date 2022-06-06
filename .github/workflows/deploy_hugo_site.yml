@@ -24,7 +24,7 @@ jobs:
       - name: Hugo Ver
         run: hugo version
       - name: Build
-        run: hugo --minify --theme hugo-book
+        run: hugo --minify --theme hugo-book-customized
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
