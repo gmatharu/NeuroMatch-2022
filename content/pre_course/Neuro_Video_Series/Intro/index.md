@@ -4,7 +4,7 @@ date: 2022-06-06T21:52:08+03:00
 weight: 3
 draft: False
 
-next: /pre_course/Neuro_Video_Series/Human_Psychophysics
+next: /NeuroMatch-2022/pre_course/Neuro_Video_Series/Human_Psychophysics/
 prev: /
 ---
 
@@ -61,5 +61,13 @@ Well organised Intro to NeuroScience and the topics that are covered in the next
 ### Measuring Brain Activity
 Various ways to read our Brain Activity, for example: **fMRI, MEG & EEG etc.** provides different time and spatial resolution.
 
-### [Video Lecture](https://youtube.com/watch?v=F8gTfydUFjc)
-### [Slides](https://compneuro.neuromatch.io/tutorials/W0D0_NeuroVideoSeries/student/W0D0_Tutorial2.html#)
+### Video Lecture
+
+<iframe width="700" height="350" src="https://youtube.com/embed/mZkujcMW1uI" frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen>
+</iframe>
+
+### Slides
+
+<iframe width="730" height="410" src="https://mfr.ca-1.osf.io/render?url=https://osf.io/96dqp/?direct%26mode=render%26action=download%26mode=rende" frameborder="0" allowfullscreen=""></iframe>

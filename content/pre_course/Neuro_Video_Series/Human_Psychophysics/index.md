@@ -2,8 +2,10 @@
 title: "Human Psychophysics"
 date: 2022-06-07T01:28:09+03:00
 draft: False
-next: /pre_course/Neuro_Video_Series/Behavioral_Readout
-prev: /pre_course/Neuro_Video_Series/Intro
+next: /NeuroMatch-2022/pre_course/Neuro_Video_Series/Behavioral_Readout
+prev: /NeuroMatch-2022/pre_course/Neuro_Video_Series/Intro
+description: Psychophysics
+keywords: Psychophysics
 weight: 4
 ---
 
@@ -52,3 +54,15 @@ allowfullscreen>
 </iframe>
 
 There is a lot that is discussed in the rest of the video, which I won't write about here as I had a bit hard time understanding, but generally what I understood is that more than required details of methods of **threshold and discrimination detection** are described with limitation of a simple stimulus based task.
+
+
+### Video Lecture
+
+<iframe width="700" height="350" src="https://youtube.com/embed/F8gTfydUFjc" frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen>
+</iframe>
+
+### Slides
+
+<iframe width="730" height="410" src="https://mfr.ca-1.osf.io/render?url=https://osf.io/qb9dg/?direct%26mode=render%26action=download%26mode=rende" frameborder="0" allowfullscreen=""></iframe>

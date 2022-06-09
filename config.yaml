@@ -8,6 +8,11 @@ googleAnalytics: G-XZFG6DG008
 disablePathToLower: true
 enableGitInfo: false
 
+sitemap:
+  changefreq: "always"
+  filename: "sitemap.xml"
+  priority: 0.5
+
 # Needed for mermaid/katex shortcodes
 markup:
   goldmark:
