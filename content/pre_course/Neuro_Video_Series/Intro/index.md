@@ -3,7 +3,7 @@ title: "Intro"
 date: 2022-06-06T21:52:08+03:00
 weight: 3
 draft: False
-
+description: Introduction to NeuroScience
 next: /NeuroMatch-2022/pre_course/Neuro_Video_Series/Human_Psychophysics/
 prev: /
 ---
