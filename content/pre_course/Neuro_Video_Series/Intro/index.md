@@ -3,6 +3,9 @@ title: "Intro"
 date: 2022-06-06T21:52:08+03:00
 weight: 3
 draft: False
+
+next: /pre_course/Neuro_Video_Series/Human_Psychophysics
+prev: /
 ---
 
 Well organised Intro to NeuroScience and the topics that are covered in the next sections.
@@ -24,7 +27,7 @@ Well organised Intro to NeuroScience and the topics that are covered in the next
 - Sub cortical regions: older regions by evolution
 ### Neurons
 - Functional understanding on higher level is not enough
-- In order to undertsand how the hardware interplay might lead to thoughts(mind) we need to understand the smallest unit of brain: **Neurons**
+- In order to understand how the hardware interplay might lead to thoughts(mind) we need to understand the smallest unit of brain: **Neurons**
 - Structurally Neurons like most cells have a Nucleus and Other cell bodies. Most important parts of a Neuron are the **Axon**: *Send ourputs to other other Neurons* and the **Dendrites**: *receive inputs from other Neurons*.
 ![Neuron Structure](images/Soma.png)
 |:--:|
@@ -38,17 +41,17 @@ Well organised Intro to NeuroScience and the topics that are covered in the next
 - Synapse:
     - is a chemical connection
     - is more abundant than the electrical one
-- **NeuroTransmitters** define excitatory or inhibatory neuron
+- **NeuroTransmitters** define excitatory or inhibitory neuron
 - **Dale's Dogma**: Neurons can be either Ext/Inh
 
-### Network of Neurons: 
+### Network of Neurons
 - NeoCortex
-    - layered architechture:6 layers
+    - layered architecture:6 layers
     - Vertically layers are not connected in order
     - Horizontally, the neurons connections are distance based and over long distance they make "patchy: in small areas" connections
  - Between regions connectivity chart which shows that the connections have some structure to them.
- - Brain complexity arises from the strength and number of the connections, these connections strengh can change
- - Brain can be though of as a Net of Net, Local regions make a net which connects to other nets giving rise to function
+ - Brain complexity arises from the strength and number of the connections, these connections strength can change
+ - Brain can be thought of as a Net of Net, Local regions make a net which connects to other nets giving rise to function
  - **Question: Can a neuron connect to new neurons or does the connections remain static i.e only their strength changes?**
 
 ### Brain Function
